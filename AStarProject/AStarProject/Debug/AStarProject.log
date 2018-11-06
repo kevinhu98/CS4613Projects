@@ -1,5 +1,5 @@
 ﻿  Source.cpp
-c:\users\kevin\source\repos\astarproject\astarproject\source.cpp(95): warning C4172: returning address of local variable or temporary: nextState
-c:\users\kevin\source\repos\astarproject\astarproject\source.cpp(111): warning C4172: returning address of local variable or temporary: nextState
-c:\users\kevin\source\repos\astarproject\astarproject\source.cpp(103): warning C4172: returning address of local variable or temporary: nextState
-  AStarProject.vcxproj -> C:\Users\Kevin\source\repos\AStarProject\Debug\AStarProject.exe
+c:\users\kevin\source\repos\cs4613projects\astarproject\astarproject\source.cpp(90): warning C4172: returning address of local variable or temporary: nextState
+c:\users\kevin\source\repos\cs4613projects\astarproject\astarproject\source.cpp(98): warning C4172: returning address of local variable or temporary: nextState
+c:\users\kevin\source\repos\cs4613projects\astarproject\astarproject\source.cpp(106): warning C4172: returning address of local variable or temporary: nextState
+  AStarProject.vcxproj -> C:\Users\Kevin\source\repos\CS4613Projects\AStarProject\Debug\AStarProject.exe
